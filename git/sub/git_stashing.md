@@ -1,3 +1,4 @@
+# What is a Git Stashing?
 **Git stashing** allows you to temporarily save changes in your working directory that you aren’t ready to commit. It stores your uncommitted modifications (tracked files, staged files, and optionally untracked files) so you can switch branches or work on something else without losing your progress.
 
 ### Common Git Stash Commands:
