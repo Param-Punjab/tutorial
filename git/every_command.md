@@ -176,7 +176,7 @@ To fetch changes from a remote repository without merging:
 git fetch <remote-name>
 ```
 
-## 7. Tagging [ [Detail](https://param-punjab.github.io/tutorial/git/sub/git_tag) ]
+## 7. Tagging [[Detailed](https://param-punjab.github.io/tutorial/git/sub/git_tag)]
 
 To create a tag:
 
@@ -221,7 +221,7 @@ Configuration settings can be managed globally or at the repository level. For l
 git config user.email "yourname@example.com"
 ```
 
-## 10. Git Stashing [ [Detail](https://param-punjab.github.io/tutorial/git/sub/git_stashing) ]
+## 10. Git Stashing [[Detailed](https://param-punjab.github.io/tutorial/git/sub/git_stashing)]
 
 To stash your changes (temporary storage):
 
