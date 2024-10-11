@@ -8,5 +8,5 @@ Each tutorial includes:
 - **Commands and configurations** for various systems and tools.
 - **Personal notes** to help understand and remember key concepts.
 
-Feel free to explore, contribute, and learn alongside me as I document my journey!
+Feel free to explore, contribute, and learn alongside me as I document my journey !
 
