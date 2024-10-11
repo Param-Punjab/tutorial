@@ -1,4 +1,4 @@
-# A Note on Commands
+# A Note on Commands by Gemini AI
 
 **Disclaimer:** While I can provide a general overview of common Git commands, the specific commands and their usage can vary based on the Git client or platform you're using. It's always recommended to refer to the official Git documentation or your Git client's specific instructions for accurate and up-to-date information.
 

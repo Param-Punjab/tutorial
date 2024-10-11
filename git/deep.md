@@ -1,4 +1,4 @@
-# Session Notes: Introduction to Git and GitHub
+# Session Notes: Introduction to Git and GitHub by Deep AI
 
 ### Overview
 - Introduction to the session and audience engagement.

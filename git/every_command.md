@@ -1,4 +1,4 @@
-# GitHub Command Reference
+# GitHub Command Reference by ChatGPT AI
 
 ## Index
 
