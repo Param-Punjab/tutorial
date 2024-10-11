@@ -1,5 +1,3 @@
-Certainly! Below are detailed notes of the session organized by key topics, including each relevant Git command, its syntax, and its function.
-
 # Session Notes: Introduction to Git and GitHub
 
 ### Overview
@@ -190,4 +188,3 @@ Certainly! Below are detailed notes of the session organized by key topics, incl
 
 ---
 
-These detailed notes encompass the foundational concepts and commands required to effectively use Git and GitHub, tailored for ease of understanding and accessibility. Participants are encouraged to experiment with these commands to become more comfortable with version control.
