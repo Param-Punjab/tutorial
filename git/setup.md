@@ -1,4 +1,4 @@
-### Configuring Git for Visual Studio Code (VS Code)
+# Configuring Git for Visual Studio Code (VS Code)
 
 This guide walks you through configuring Git for use in VS Code, starting from downloading Git to pushing code changes to GitHub.
 
