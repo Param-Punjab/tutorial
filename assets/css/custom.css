@@ -2,3 +2,8 @@
 body {
   background-color: #f0f0f0;  /* Change this to the color of your choice */
 }
+
+/* assets/css/custom.css */
+body.custom-bg {
+  background-color: #f0f0f0;  /* Change this to your desired color */
+}
