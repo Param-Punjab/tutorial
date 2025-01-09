@@ -225,6 +225,7 @@ cargo build --release
 - `cargo run`: Compile and run the project.
 - `cargo check`: Check for compilation errors without building.
 - `cargo build --release`: Compile optimized code for release.
+- `rustfmt`: To format the rust program. 
 
 ---
 
